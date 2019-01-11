@@ -1,6 +1,6 @@
 # PaginaHtmlCss
 
-###Página HTML+CSS para Lenguaje de Marcas y Sistemas de Gestión de Información.
+### Página HTML+CSS para Lenguaje de Marcas y Sistemas de Gestión de Información.
 
 Trabajo para tratar con etiquetas html y dar estilo con css.
 
