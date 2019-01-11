@@ -1,0 +1,142 @@
+body
+{
+	background-color: rgb(254,231,210);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	font-family: Arial;	
+	margin: 0px;
+}
+header
+{
+	padding-left: 5%;
+}
+h2 
+{
+	text-align: center;
+	width: 350px;
+	background-color: rgb(249,175,145);
+	color: rgb(223,75,13);
+}
+h1
+{
+	font-size: 60px;
+	font-family: Impact, Verdana, sans-serif;
+}
+#logo
+{
+	float: left;
+	width: 150px;
+	height: 150px;
+}
+a
+{
+	text-decoration: none;
+}
+.menu
+{
+	background-color: rgb(255,103,0);
+}
+.menu li a
+{
+	color: white;
+	font-size: 24px;
+}
+.menu li
+{
+	display: inline-block;
+	font-family: verdana;
+	margin-left: 7%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+table, th, td
+{
+	border: 1px solid black;
+}
+tr
+{
+	background-color: rgb(223,75,13);
+}
+tr:nth-child(even) 
+{
+    background-color: rgb(252,157,112);
+}
+th
+{
+	background-color: rgb(210,43,0);
+}
+.Punto1
+{
+	clear: both;
+}
+a
+{
+	color: black;
+}
+.lista a
+{
+	color: rgb(245,63,10);
+	text-decoration: none;
+}
+a:hover
+{
+	color: red;
+}
+section
+{
+	display: block;
+	width: 700px;
+	margin: 50px auto;
+}
+footer
+{
+	background-color: rgb(250,155,99);
+	margin: 0px;
+	padding: 0px;
+	font-family: verdana;
+
+}
+footer ul
+{
+	display: inline-block;
+	margin-left: 23%;
+	list-style: none;
+	height: 200px;
+}
+footer img
+{
+	width: 50px;
+	height: 50px;
+}
+#Bli
+{
+	float: left;
+	line-height: 200%;
+}
+h3
+{
+	color: rgb(255,255,255);
+	text-shadow: 3px 3px 1px grey;
+}
+footer a
+{
+	color: rgb(117,117,117);
+	text-decoration: none;
+}
+ul
+{
+	list-style: none;
+}
+article
+{
+	border:2px dashed;
+	border-radius: 10px;
+	border-color: rgb(245,63,10);
+	padding: 15px;
+	margin: 15px;
+}
+table img
+{
+	width: 50px;
+	height: 50px;
+}
